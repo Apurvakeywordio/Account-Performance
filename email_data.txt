@@ -1,0 +1,14 @@
+sender_email_address:pratiksha@keywordio.com
+-----------------------------------------
+receiver_email_address:rajputpratiksha89@gmail.com
+-----------------------------------------
+cc_email_address:
+-----------------------------------------
+email_subject:demo email
+-----------------------------------------
+email_body:
+"
+Hello,
+
+PFA
+"
